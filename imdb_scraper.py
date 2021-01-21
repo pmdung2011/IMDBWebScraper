@@ -3,8 +3,6 @@
 # pandas will help us assemble the data into a DataFrame to clean and analyze it
 # NumPy will add support for mathematical functions and tools for working with arrays
 
-
-# https://medium.com/better-programming/the-only-step-by-step-guide-youll-need-to-build-a-web-scraper-with-python-e79066bd895a
 import requests
 from requests import get
 from bs4 import BeautifulSoup
